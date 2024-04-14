@@ -39,7 +39,7 @@ Access our Design document
 <a href="Treatment Document Hue-nique.pdf" download>here</a>!
 
 ## Our Github Repository: 
-https://github.com/gribsyrup/ScalingTheSummitV1/
+<a href=""https://github.com/gribsyrup/ScalingTheSummitV1">https://github.com/gribsyrup/ScalingTheSummitV1</a>
 
 ## Access our builds here: 
  <li class="masthead__menu-item">

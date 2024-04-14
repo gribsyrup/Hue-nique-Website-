@@ -6,4 +6,4 @@ permalink: /ArtGallery/
 
 Access our Art Gallery here!: 
 
-<a href="https://waddicklauren.myportfolio.com/">https://waddicklauren.myportfolio.com</a>
+<a href="https://scalingthesummit.myportfolio.com">https://scalingthesummit.myportfolio.com</a>

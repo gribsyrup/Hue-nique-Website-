@@ -38,10 +38,12 @@ Welcome to the page for team Hue-nique's game, Scaling the summit!
 Access our Design document 
 <a href="Treatment Document Hue-nique.pdf" download>here</a>!
 
+
 ## Our Github Repository: 
 <a href="https://github.com/gribsyrup/ScalingTheSummitV1">https://github.com/gribsyrup/ScalingTheSummitV1</a>
 
 ## Access our builds here: 
  <li class="masthead__menu-item">
           <a href="https://drive.google.com/file/d/1rJrmttYvztLaZa7GagtL2kpGVIVJQUJZ/view?usp=sharing">Alpha (1.01)</a>
+          <a href="https://drive.google.com/file/d/1fmTFJz0g6GQ_-MbRWQsTgq8fCD8YR-0c/view">Playtesting Build(1.1)</a>
 </li>

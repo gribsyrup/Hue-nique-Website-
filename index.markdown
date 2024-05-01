@@ -51,5 +51,5 @@ Access our Design document
           <a href="https://drive.google.com/file/d/1G2ru_JDxC5XaHmxY_91DBjLaCAVP24QZ/view?usp=drive_link">Beta Version(2.0)</a> <br>  
 </li>
 
-## Our final presentation: 
-https://docs.google.com/presentation/d/1N20SVeXuWIpAZTFxaOKAYFrtKNizdDHZvOLJwR70IW0/edit?usp=sharing
+## Our final presentation: [
+https://drive.google.com/file/d/1VvUjljZIBCqInOt6rDjd_pmPdvXNqLPe/view?usp=drive_link

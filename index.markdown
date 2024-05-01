@@ -52,4 +52,4 @@ Access our Design document
 </li>
 
 ## Our final presentation: [
-https://drive.google.com/file/d/1VvUjljZIBCqInOt6rDjd_pmPdvXNqLPe/view?usp=drive_link
+[https://drive.google.com/file/d/1VvUjljZIBCqInOt6rDjd_pmPdvXNqLPe/view?usp=drive_link](https://docs.google.com/presentation/d/1N20SVeXuWIpAZTFxaOKAYFrtKNizdDHZvOLJwR70IW0/edit?usp=sharing)

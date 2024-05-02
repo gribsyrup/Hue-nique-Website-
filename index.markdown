@@ -44,11 +44,11 @@ Access our Design document
 
 ## Access our builds here: 
  <li class="masthead__menu-item">
-          <a href="https://drive.google.com/file/d/1rJrmttYvztLaZa7GagtL2kpGVIVJQUJZ/view?usp=sharing">Alpha (1.01)</a> <br>  
+          <a href="https://drive.google.com/file/d/1rJrmttYvztLaZa7GagtL2kpGVIVJQUJZ/view?usp=sharing">Alpha (1.01)</a> 
      
-          <a href="https://drive.google.com/file/d/1fmTFJz0g6GQ_-MbRWQsTgq8fCD8YR-0c/view">Playtesting Build(1.1)</a> <br>  
+          <a href="https://drive.google.com/file/d/1fmTFJz0g6GQ_-MbRWQsTgq8fCD8YR-0c/view">Playtesting Build(1.1)</a>  
 
-          <a href="https://drive.google.com/file/d/1VvUjljZIBCqInOt6rDjd_pmPdvXNqLPe/view?usp=drive_link">Beta Version(2.0)</a> <br>  
+          <a href="https://drive.google.com/file/d/1VvUjljZIBCqInOt6rDjd_pmPdvXNqLPe/view?usp=drive_link">Beta Version(2.0)</a> 
 </li>
 
 ## Our final presentation: [

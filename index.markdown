@@ -48,7 +48,7 @@ Access our Design document
      
           <a href="https://drive.google.com/file/d/1fmTFJz0g6GQ_-MbRWQsTgq8fCD8YR-0c/view">Playtesting Build(1.1)</a> <br>  
 
-          <a href="https://drive.google.com/file/d/1G2ru_JDxC5XaHmxY_91DBjLaCAVP24QZ/view?usp=drive_link">Beta Version(2.0)</a> <br>  
+          <a href="https://drive.google.com/file/d/1VvUjljZIBCqInOt6rDjd_pmPdvXNqLPe/view?usp=drive_link">Beta Version(2.0)</a> <br>  
 </li>
 
 ## Our final presentation: [
